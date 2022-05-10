@@ -1,0 +1,20 @@
+{
+  "name": "backuptools-software",
+  "version": "1.4.2",
+  "description": "Backup is essential for all computer users, but the process of backing up is not always easy. Download the BackupTools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A14313/BackupTools-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A14313/BackupTools-software/issues"
+  },
+  "homepage": "https://github.com/A14313/BackupTools-software#readme"
+}
