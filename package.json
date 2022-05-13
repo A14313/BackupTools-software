@@ -1,6 +1,6 @@
 {
   "name": "backuptools-software",
-  "version": "1.4.2",
+  "version": "1.4.1",
   "description": "Backup is essential for all computer users, but the process of backing up is not always easy. Download the BackupTools",
   "main": "index.js",
   "scripts": {
