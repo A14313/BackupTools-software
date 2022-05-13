@@ -12,7 +12,7 @@ REM end
 
 :ADMIN-ACCESS
 echo You may need to run this software as administrator
-echo to avoid unnecessary errors and to perform the task without errors.
+echo to avoid unnecessary errors and to perform the task without any errors.
 echo.
 echo The administrator access is used to copy or mirror your files or
 echo whatever you chose as an option.
